@@ -1,0 +1,29 @@
+html {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+img {
+  border: 5px solid white;
+  width: 100%;
+}
+
+div {
+  width: 60%;
+  margin-top: 10%;
+  margin-left: 20%;
+}
